@@ -1,8 +1,8 @@
 # Self-introduction
-- 👋 Hi, I’m @arthurlli
-- 👀 I’m interested in atmospheric science and programming.
-- 🌱 I’m currently finding research opportunity while learning Jap-Chi translsation.
-- 💞️ I’m also a big fan of Japan, Sweet John, and Yorushika for their incredible musics.
+- 👋 Hi, I’m Arthur, a **newbie** to GitHub and open-source programming;
+- 👀 I obtained my bachelor's degree in **Earth System Science**, so I'm enthusiastic about atmospheric science 
+- 🌱 Apart from science, I'm interested in **translsation**, like Japanese/English-Chinese translation;
+- 💞️ I’m also a big fan of [Sweet John](https://www.youtube.com/channel/UCGdLLM0CekFmgMhPpnG9A7Q) and [Yorushika](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA) for their incredible musics;
 - 📫 How to reach me ...
 <p align= "left">
   <a href="https://www.linkedin.com/in/arthur-ho-wang-li-ba2b42204/" target="_blank"> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" width="30" height="30"/> </a> </p>
