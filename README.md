@@ -5,7 +5,7 @@
 - 💞️ I’m also a big fan of Japan, Sweet John, and Yorushika for their incredible musics.
 - 📫 How to reach me ...
 <p align= "left">
-  <a href="https://www.linkedin.com/in/arthur-ho-wang-li-ba2b42204/" rel="nofollow noreferrer"> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" width="30" height="30"/> </a> </p>
+  <a href="https://www.linkedin.com/in/arthur-ho-wang-li-ba2b42204/" target="_blank"> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" width="30" height="30"/> </a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> 
