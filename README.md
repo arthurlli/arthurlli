@@ -3,7 +3,8 @@
 - 👀 I obtained my bachelor's degree in **Earth System Science**, and I'm enthusiastic about atmospheric science and air pollution studies;
 - 🌱 Apart from science, I'm interested in **translsation**, like Japanese/English-Chinese translation;
 - 💞️ I’m also a big fan of [Sweet John (Taiwan)](https://www.youtube.com/channel/UCGdLLM0CekFmgMhPpnG9A7Q) and [Yorushika (Japan)](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA) for their incredible musics;
-- 📫 How to reach me ...
+
+<h3 alight="left">How to reach me ...</h3>
 <p align= "left">
   <a href="https://www.linkedin.com/in/arthur-ho-wang-li-ba2b42204" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30" height="30"/> </a> </p>
 <h3 align="left">Languages and Tools:</h3>
