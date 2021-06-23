@@ -1,5 +1,5 @@
-# Self-introduction
-- 👋 Hi, I’m Arthur, a **newbie** to GitHub and open-source programming;
+# Hi 👋 I’m Arthur, 
+- :rocket: a **newbie** to GitHub and open-source programming;
 - 👀 I obtained my bachelor's degree in **Earth System Science**, and I'm enthusiastic about atmospheric science and air pollution studies;
 - 🌱 Apart from science, I'm interested in **translsations**, like Japanese/English-Chinese translation;
 - 💞️ I’m also a big fan of [Sweet John (Taiwan)](https://www.youtube.com/channel/UCGdLLM0CekFmgMhPpnG9A7Q) and [Yorushika (Japan)](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA) for their incredible musics;
@@ -16,6 +16,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="c" width="35" height="35"/> 
 </p> 
+<h3 align="left">Research toolkits</h3>
+- Google Earth Engine;
+- ArcGIS Pro;
+- QGIS;
+- ADS-B; 
 <!---
 arthurlli/arthurlli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
