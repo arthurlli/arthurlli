@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="c" width="35" height="35"/> 
 </p> 
-<h3 align="left">Research toolkits</h3>
+<h3 align="left">Research toolkits:</h3>
 - Google Earth Engine;
 - ArcGIS Pro;
 - QGIS;
