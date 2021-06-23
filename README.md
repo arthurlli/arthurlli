@@ -1,7 +1,7 @@
 # Self-introduction
 - 👋 Hi, I’m Arthur, a **newbie** to GitHub and open-source programming;
 - 👀 I obtained my bachelor's degree in **Earth System Science**, and I'm enthusiastic about atmospheric science and air pollution studies;
-- 🌱 Apart from science, I'm interested in **translsation**, like Japanese/English-Chinese translation;
+- 🌱 Apart from science, I'm interested in **translsations**, like Japanese/English-Chinese translation;
 - 💞️ I’m also a big fan of [Sweet John (Taiwan)](https://www.youtube.com/channel/UCGdLLM0CekFmgMhPpnG9A7Q) and [Yorushika (Japan)](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA) for their incredible musics;
 
 <h3 alight="left">How to reach me ...</h3>
