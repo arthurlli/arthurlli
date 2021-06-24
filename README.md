@@ -1,16 +1,19 @@
 # Hi 👋 I’m Arthur 🇭🇰:
+### A few things about me...
 - :rocket: a **newbie** to GitHub and open-source programming;
 - :book: I obtained my bachelor's degree in <a href="https://www.cuhk.edu.hk/sci/essc/"><img src="https://user-images.githubusercontent.com/75725246/123263821-f96e5680-d52b-11eb-8e5b-32d0f4f7516c.gif" width="25" height="25"> Earth System Science<a/>;
 - 👀 I'm enthusiastic about atmospheric science and air pollution studies;
 - 🌱 Apart from science, I'm interested in **translations**, like Japanese/English-Chinese translation;
 - 💞️ I’m also a big fan of [:taiwan: Sweet John (Taiwan)](https://www.youtube.com/channel/UCGdLLM0CekFmgMhPpnG9A7Q) and [:jp: Yorushika (Japan)](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA) for their incredible musics;
-## Recent activities:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-## How to reach me ...
+  
+### How to reach me ...
 <p align= "left">
   <a href="https://www.linkedin.com/in/arthur-ho-wang-li-ba2b42204" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30" height="30"/> </a> </p>
   
+## Recent activities:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Languages and Tools:
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
