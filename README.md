@@ -5,7 +5,9 @@
 - 👀 I'm enthusiastic about atmospheric science and air pollution studies;
 - 🌱 Apart from science, I'm interested in **translations**, like Japanese/English-Chinese translation;
 - 💞️ I’m also a big fan of [:taiwan: Sweet John (Taiwan)](https://www.youtube.com/channel/UCGdLLM0CekFmgMhPpnG9A7Q) and [:jp: Yorushika (Japan)](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA) for their incredible musics;
-  
+### Some stats...
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### How to reach me ...
 <p align= "left">
   <a href="https://www.linkedin.com/in/arthur-ho-wang-li-ba2b42204" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30" height="30"/> </a> </p>
