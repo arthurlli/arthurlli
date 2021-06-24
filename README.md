@@ -16,11 +16,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="c" width="35" height="35"/> 
 </p> 
-<h3 align="left">Research toolkits:</h3>
+
+### Research toolkits:
 - Google Earth Engine;
 - ArcGIS Pro;
 - QGIS;
 - ADS-B; 
+
+### Research interest:
+- Air pollution science and engineering
+- Climate change
+- Remote sensing
 <!---
 arthurlli/arthurlli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
