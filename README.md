@@ -12,7 +12,6 @@
   
 ## Recent activities:
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## Languages and Tools:
 <p align="left"> 
@@ -26,13 +25,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="c" width="35" height="35"/> 
 </p> 
 
-### Research toolkits:
+### Research toolkits...
 - Google Earth Engine;
 - ArcGIS Pro;
 - QGIS;
 - ADS-B; 
 
-### Research interest:
+### Research interest...
 - Air pollution science and engineering
 - Climate change
 - Remote sensing
