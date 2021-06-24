@@ -12,6 +12,12 @@
   
 ## Recent activities:
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#6024](https://github.com/simple-icons/simple-icons/issues/6024) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#1796](https://github.com/public-apis/public-apis/issues/1796) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+3. 🗣 Commented on [#1796](https://github.com/public-apis/public-apis/issues/1796) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+4. 🗣 Commented on [#1796](https://github.com/public-apis/public-apis/issues/1796) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+5. ❗️ Opened issue [#405](https://github.com/rahuldkjain/github-profile-readme-generator/issues/405) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+<!--END_SECTION:activity-->
 
 ## Languages and Tools:
 <p align="left"> 
