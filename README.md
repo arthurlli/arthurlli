@@ -37,6 +37,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="c" width="35" height="35"/> 
 </p> 
 
+### I'm currently learning...
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/>
+</p> 
+ 
 ### Research toolkits...
 - Google Earth Engine;
 - ArcGIS Pro;
