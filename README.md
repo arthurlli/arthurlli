@@ -18,9 +18,9 @@
   
 ## Recent activities:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1993](https://github.com/public-apis/public-apis/pull/1993) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 🗣 Commented on [#1](https://github.com/jamesgeorge007/jamesgeorge007/issues/1) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-3. 🗣 Commented on [#1796](https://github.com/public-apis/public-apis/issues/1796) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+1. 🗣 Commented on [#1993](https://github.com/public-apis/public-apis/issues/1993) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 💪 Opened PR [#1993](https://github.com/public-apis/public-apis/pull/1993) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+3. 🗣 Commented on [#1](https://github.com/jamesgeorge007/jamesgeorge007/issues/1) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
 4. 🗣 Commented on [#1796](https://github.com/public-apis/public-apis/issues/1796) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 5. 🗣 Commented on [#1796](https://github.com/public-apis/public-apis/issues/1796) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 <!--END_SECTION:activity-->
