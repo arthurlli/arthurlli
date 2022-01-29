@@ -10,7 +10,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 
- Last Updated on 28/01/2022 01:06:36 UTC
+ Last Updated on 29/01/2022 01:02:10 UTC
 <!--END_SECTION:waka-->
 ### How to reach me ...
 <p align= "left">
