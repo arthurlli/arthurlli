@@ -1,9 +1,9 @@
 # Hi 👋 I’m Arthur 🇭🇰:
 ### A few things about me...
-- :rocket: a **newbie** to GitHub and open-source programming;
+- :rocket: a **newbie** to GitHub and open-source community;
 - :book: I obtained my bachelor's degree in <a href="https://www.cuhk.edu.hk/sci/essc/"><img src="https://user-images.githubusercontent.com/75725246/123263821-f96e5680-d52b-11eb-8e5b-32d0f4f7516c.gif" width="25" height="25"> Earth System Science<a/>;
 - 👀 I'm enthusiastic about atmospheric science and air pollution studies;
-- 🌱 Apart from science, I'm interested in **translations**, like Japanese/English-Chinese translation;
+- 🌱 Apart from science, I'm also interested in **translations**, like Japanese/English-Chinese translation;
 - 💞️ I’m also a big fan of [:taiwan: Sweet John (Taiwan)](https://www.youtube.com/channel/UCGdLLM0CekFmgMhPpnG9A7Q) and [:jp: Yorushika (Japan)](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA) for their incredible musics;
 ### Some stats...
 <!--START_SECTION:waka-->
