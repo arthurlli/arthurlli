@@ -7,10 +7,10 @@
 - 💞️ I’m also a big fan of [:taiwan: Sweet John (Taiwan)](https://www.youtube.com/channel/UCGdLLM0CekFmgMhPpnG9A7Q) and [:jp: Yorushika (Japan)](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA) for their incredible musics;
 ### Some stats...
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 
- Last Updated on 15/04/2022 01:45:43 UTC
+ Last Updated on 16/04/2022 01:39:07 UTC
 <!--END_SECTION:waka-->
 ### How to reach me ...
 <p align= "left">
