@@ -1,9 +1,9 @@
 # Hi 👋 I’m Arthur 🇭🇰:
 ### A few things about me...
 - :rocket: a **newbie** to GitHub and open-source community;
-- :book: I am currently a master's student at the University of Tokyo, and I obtained my bachelor's degree in <img src="https://user-images.githubusercontent.com/75725246/123263821-f96e5680-d52b-11eb-8e5b-32d0f4f7516c.gif" width="25" height="25"><a href="https://www.cuhk.edu.hk/sci/essc/"> Earth System Science <a/>;
-- 👀 I'm enthusiastic about atmospheric science and air pollution studies;
-- 🌱 Apart from science, I'm also interested in **translations**, like Japanese/English-Chinese translation;
+- :book: I am currently a master's student at the University of Tokyo, with my bachelor's degree in <img src="https://user-images.githubusercontent.com/75725246/123263821-f96e5680-d52b-11eb-8e5b-32d0f4f7516c.gif" width="25" height="25"><a href="https://www.cuhk.edu.hk/sci/essc/"> Earth System Science <a/>;
+- 👀 I am working on retrieval algorithm for GOSAT-2, a Japanese satellite dedicated to GHG monitoring;
+- 🌱 Apart from science, I'm also interested in **translations** and **cooking**;
 - 💞️ I’m also a big fan of [:taiwan: Sweet John (Taiwan)](https://www.youtube.com/channel/UCGdLLM0CekFmgMhPpnG9A7Q) and [:jp: Yorushika (Japan)](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA) for their incredible musics;
 
 ### How to reach me ...
@@ -29,6 +29,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="scss" width="35" height="35"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="c" width="35" height="35"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="c" width="35" height="35"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="c" width="35" height="35"/> 
 </p> 
 
 ### I'm currently learning...
@@ -40,7 +42,8 @@
 - Google Earth Engine;
 - ArcGIS Pro;
 - QGIS;
-- ADS-B; 
+- ADS-B;
+- Raspberry Pi
 
 ### Research interest...
 - Air pollution science and engineering
