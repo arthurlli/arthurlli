@@ -1,6 +1,6 @@
 # Hi 👋 I’m Arthur 🇭🇰:
 ### A few things about me...
-- :rocket: a **newbie** to GitHub and open-source community;
+- :rocket: Based in Tokyo, raised in Hong Kong.
 - :book: I am currently a master's student at the University of Tokyo, with my bachelor's degree in <img src="https://user-images.githubusercontent.com/75725246/123263821-f96e5680-d52b-11eb-8e5b-32d0f4f7516c.gif" width="25" height="25"><a href="https://www.cuhk.edu.hk/sci/essc/"> Earth System Science <a/>;
 - 👀 I am working on retrieval algorithm for GOSAT-2, a Japanese satellite dedicated to GHG monitoring;
 - 🌱 Apart from science, I'm also interested in **translations** and **cooking**;
