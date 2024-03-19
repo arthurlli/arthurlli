@@ -3,16 +3,19 @@
 - :rocket: Based in Tokyo, raised in Hong Kong.
 - :book: I am currently a master's student at the University of Tokyo, with my bachelor's degree in <img src="https://user-images.githubusercontent.com/75725246/123263821-f96e5680-d52b-11eb-8e5b-32d0f4f7516c.gif" width="25" height="25"><a href="https://www.cuhk.edu.hk/sci/essc/"> Earth System Science <a/>;
 - 👀 I am working on retrieval algorithm for GOSAT-2, a Japanese satellite dedicated to GHG monitoring;
-- 🌱 Apart from science, I'm also interested in **translations** and **cooking**;
+- 🌱 Apart from science, I'm also interested in **translations**, **cooking**, and **technology**;
 - 💞️ I’m also a big fan of [:taiwan: Sweet John (Taiwan)](https://www.youtube.com/channel/UCGdLLM0CekFmgMhPpnG9A7Q) and [:jp: Yorushika (Japan)](https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA) for their incredible musics;
+
+### More about me ...
+- I made my personal webpage at https://www.arthurhwli.com/;
 
 ### How to reach me ...
 <p align= "left">
   <a href="https://www.linkedin.com/in/arthur-ho-wang-li-ba2b42204" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="30" height="30"/> </a> </p>
   
-## Recent activities:
+<!-- ## Recent activities:-->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1993](https://github.com/public-apis/public-apis/issues/1993) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+<!--1. 🗣 Commented on [#1993](https://github.com/public-apis/public-apis/issues/1993) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 2. 💪 Opened PR [#1993](https://github.com/public-apis/public-apis/pull/1993) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
 3. 🗣 Commented on [#1](https://github.com/jamesgeorge007/jamesgeorge007/issues/1) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
 4. 🗣 Commented on [#1796](https://github.com/public-apis/public-apis/issues/1796) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
@@ -22,6 +25,7 @@
 ## Languages and Tools:
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" alt="python" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="35" height="35"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="r" width="35" height="35"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> 
